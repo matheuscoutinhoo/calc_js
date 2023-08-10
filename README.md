@@ -4,5 +4,5 @@ Besides, Calc.js has many error treatments to prevent user to type unexpected to
 The application also has a dark and a light theme, that can be switched by clicking the appropiate button.
 
 ### Calc.js 
-![Dark Theme](https://imgur.com/a/gKEOZ3T)
-![Light Theme](https://imgur.com/a/DMpiIWi)
+![Dark Theme](https://imgur.com/gallery/v48Kz8o)
+![Light Theme](https://imgur.com/a/DMpiIWi.png)
